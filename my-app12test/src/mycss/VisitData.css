@@ -1,0 +1,7 @@
+.visit-data:hover .delete{
+    opacity: 1;
+}
+.delete {
+    margin-right: 5px;
+    opacity: 0;
+}
